@@ -24,8 +24,4 @@ fn main() {
     build.compile("ced");
 
     println!("cargo:rerun-if-changed=src/ced.rs");
-
-    if target_os().unwrap() == Os::Windows && target_env().unwrap() == Env::GNU {
-        println!("cargo:rustc-link-lib=static=stdc++");
-    }
 }
