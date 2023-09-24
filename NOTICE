@@ -1,0 +1,17 @@
+textdecoder
+
+Copyright (C) 2023 wyzdwdz <wyzdwdz@gmail.com>
+
+This software is licensed under the MIT License. You can obtain a copy of the license at the following URL:
+https://github.com/wyzdwdz/textdecoder/blob/master/LICENSE
+
+The source code for this software can be found at the following location:
+https://github.com/wyzdwdz/textdecoder
+
+Copyright and license information for third-party open source components and libraries used in this software can be found at:
+
+- compact_enc_det
+Copyright 2016 Google Inc.
+https://github.com/google/compact_enc_det/blob/master/LICENSE
+
+This software is provided "as is" without warranty of any kind, either expressed or implied. See the GNU General Public License for the specific language governing permissions and limitations under the license.
